@@ -17,7 +17,7 @@
 15.	BIT 	
 16.	AWS 	
 17.	GPU 	
-18.	POST: power-on self-test
+18.	POST: power-on self-test.
     It is a diagnostic program built into the computer's hardware runs after a computeris powered on.	
 19.	CMS	
 20.	DVD 	
