@@ -12,7 +12,8 @@
 10.	CRT 	
 11.	DOS 	
 12.	IT	
-13.	MIS 	
+13.	MIS Management Information Systems
+        is a computer system consisting of hardware and software that serves as the backbone of an organization’s operations.
 14.	GUI 	
 15.	BIT 	
 16.	AWS 	
