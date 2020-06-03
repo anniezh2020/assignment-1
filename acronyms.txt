@@ -2,7 +2,8 @@
   Stores information for immediate access
 2.	ROM   Read-Only Memory
   Memory that can be read but not modified
-3.	CPU	
+3.	CPU	  Central Processing Unit
+  the electronic circuitry within a computer that executes instructions
 4.	MB 	
 5.	GB 	
 6.	TB 	
@@ -26,7 +27,8 @@
 24.	BYOD 	
 25.	URL 	
 26.	WWW 	
-27.	SSD 	
+27.	SSD Solid-state drive
+solid-state storage device
 28.	I/O 	
 29.	NAS	
 30.	WAN 	
@@ -50,7 +52,8 @@
 48.	ASCII	
 49.	VOIP	
 50.	DSL	
-51.	FAQ	
+51.	FAQ	Frequently Answered Questions
+ also known as Questions and Answers
 52.	OOP	
 53.	DNS	
 54.	GPS	
