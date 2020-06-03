@@ -24,7 +24,8 @@
 22.	HTML 	
 23.	HTTP 	
 24.	BYOD 	
-25.	URL 	
+25.	URL 	Uniform Resource Locator
+is a reference to a web resource that specifies its location 
 26.	WWW 	
 27.	SSD 	
 28.	I/O 	
@@ -49,7 +50,8 @@
 47.	MODEM 	
 48.	ASCII	
 49.	VOIP	
-50.	DSL	
+50.	DSL	Digital subscriber line
+is a family of technologies that are used to transmit digital data over telephone lines
 51.	FAQ	
 52.	OOP	
 53.	DNS	
@@ -73,5 +75,6 @@
 71.	PaaS
 72.	SaaS
 73.	SIM
-74.	C2C  
+74.	C2C  Consumer to consumer
+is the business model that facilitates commerce between private individuals
 75.	B2B  
