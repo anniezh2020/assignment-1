@@ -10,7 +10,8 @@
 8.	LAN 	
 9.	LCD 	
 10.	CRT 	
-11.	DOS 	
+11.	DOS   Disk Operating System
+  Operating system that runs from a hard disk drive
 12.	IT	
 13.	MIS 	
 14.	GUI 	
@@ -31,10 +32,11 @@
 29.	NAS	
 30.	WAN 	
 31.	OCR 	
-32.	SLA 	
+32.	SLA    	
 33.	FTP 	
 34.	TCP/IP  	
-35.	DIMM 	
+35.	DIMM    dual in-line memory module
+  Small circuit board that holds memory chips
 36.	O365 	
 37.	GHz 	
 38.	WYSIWYG 
@@ -58,7 +60,8 @@
 56.	POP	
 57.	NTFS	
 58.	VM	
-59.	WAP	
+59.	WAP   Wireless Application Protocol
+  A technical standard for accessing information over a mobile wireless network
 60.	DBMS	
 61.	W3C	
 62.	XML	
