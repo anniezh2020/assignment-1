@@ -36,7 +36,8 @@
 34.	TCP/IP  	
 35.	DIMM 	
 36.	O365 	
-37.	GHz 	
+37.	GHz 	GHz is a unit of measurement for AC (alternating current) or EM (electromagnetic) 
+              wave frequencies equal to 1,000,000,000 (one billion) Hz (hertz).
 38.	WYSIWYG 
 39.	RAID	
 40.	SCSI 	
@@ -60,7 +61,8 @@
 58.	VM	
 59.	WAP	
 60.	DBMS	
-61.	W3C	
+61.	W3C	 World Wide Web Consortium
+   is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards.
 62.	XML	
 63.	VPN
 64.	RTF
