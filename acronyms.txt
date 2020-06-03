@@ -6,7 +6,7 @@
 4.	MB 	
 5.	GB 	
 6.	TB 	
-7.	PB	
+7.	PB	Petabyte, 10^15 bytes
 8.	LAN 	
 9.	LCD 	
 10.	CRT 	
@@ -30,7 +30,7 @@
 28.	I/O 	
 29.	NAS	
 30.	WAN 	
-31.	OCR 	
+31.	OCR 	Optical Character Recognition (alt. Optical Character Reader). Conversion of images or text (written or printed) into machine-encoded text
 32.	SLA 	
 33.	FTP 	
 34.	TCP/IP  	
@@ -52,7 +52,7 @@
 50.	DSL	
 51.	FAQ	
 52.	OOP	
-53.	DNS	
+53.	DNS	Domain Name System. The naming system for computers, services, or other resources connected to the Internet or a private network.
 54.	GPS	
 55.	NIC		
 56.	POP	
