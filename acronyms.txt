@@ -17,7 +17,8 @@
 15.	BIT 	
 16.	AWS 	
 17.	GPU 	
-18.	POST	
+18.	POST: power-on self-test
+    It is a diagnostic program built into the computer's hardware runs after a computeris powered on.	
 19.	CMS	
 20.	DVD 	
 21.	FAT 	
@@ -41,7 +42,8 @@
 39.	RAID	
 40.	SCSI 	
 41.	P2P 	
-42.	UPS 	
+42.	UPS: Uninterruptible Power Supply
+    A device that provides battery backup when the electrical power fails or drops to an unacceptable voltage level.
 43.	BPS	
 44.	USB 	
 45.	DPI 	
@@ -65,7 +67,8 @@
 63.	VPN
 64.	RTF
 65.	IDE
-66.	SATA
+66.	SATA: Serial Advanced Technology Attachment
+    A computer bus interface that connects host bus adapters to mass storage devices such as hard disk drives, optical           drives, and solid-state drives. 
 67.	GUID
 68.	HDMI
 69.	IoT
