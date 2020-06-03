@@ -21,7 +21,7 @@
 19.	CMS	
 20.	DVD 	
 21.	FAT 	
-22.	HTML 	
+22.	HTML HyperText Markup Language	
 23.	HTTP 	
 24.	BYOD 	
 25.	URL 	
@@ -45,7 +45,7 @@
 43.	BPS	
 44.	USB 	
 45.	DPI 	
-46.	CSS 	
+46.	CSS Cascading Style Sheets	
 47.	MODEM 	
 48.	ASCII	
 49.	VOIP	
@@ -69,7 +69,7 @@
 67.	GUID
 68.	HDMI
 69.	IoT
-70.	IaaS
+70.	IaaS Infrastructure as a service
 71.	PaaS
 72.	SaaS
 73.	SIM
