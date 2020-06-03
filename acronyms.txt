@@ -8,7 +8,8 @@
 6.	TB 	
 7.	PB	
 8.	LAN 	
-9.	LCD 	
+9.	LCD - liquid crystal display
+It offers a high-definition picture with a very thin screen.
 10.	CRT 	
 11.	DOS 	
 12.	IT	
@@ -32,7 +33,8 @@
 30.	WAN 	
 31.	OCR 	
 32.	SLA 	
-33.	FTP 	
+33.	FTP - File Transfer Protocol
+FTP is a protocol designed for transferring files over the Internet.
 34.	TCP/IP  	
 35.	DIMM 	
 36.	O365 	
@@ -56,7 +58,8 @@
 54.	GPS	
 55.	NIC		
 56.	POP	
-57.	NTFS	
+57.	NTFS - New Technology File System
+It is the default file system of the Windows NT family.
 58.	VM	
 59.	WAP	
 60.	DBMS	
