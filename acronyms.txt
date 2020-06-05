@@ -22,7 +22,7 @@ Is a data measurement unit for digital computer or media storage.
 19.	CMS	
 20.	DVD 	
 21.	FAT 	
-22.	HTML 	
+22.	HTML HyperText Markup Language	
 23.	HTTP 	
 24.	BYOD 	
 25.	URL : stands for Uniform Resource Locator (URL)	and it is the address of a World Wide Web page
@@ -46,7 +46,7 @@ Is a data measurement unit for digital computer or media storage.
 43.	BPS	
 44.	USB 	
 45.	DPI 	
-46.	CSS 	
+46.	CSS Cascading Style Sheets	
 47.	MODEM 	
 48.	ASCII	
 49.	VOIP	: short for Voice over Internet Protocol.It is the technology that converts your voice into a digital signal
@@ -70,7 +70,7 @@ Is a data measurement unit for digital computer or media storage.
 67.	GUID
 68.	HDMI
 69.	IoT
-70.	IaaS
+70.	IaaS Infrastructure as a service
 71.	PaaS
 72.	SaaS
 73.	SIM : stands for subscriber identity modulea. It is a smart card inside a mobile phone
