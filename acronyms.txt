@@ -4,7 +4,8 @@
   Memory that can be read but not modified
 3.	CPU	
 4.	MB 	
-5.	GB 	
+5.	GB 	Gigabyte (GB or GByte)
+Is a data measurement unit for digital computer or media storage.
 6.	TB 	
 7.	PB	
 8.	LAN 	
