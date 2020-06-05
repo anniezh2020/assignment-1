@@ -6,7 +6,7 @@
   the electronic circuitry within a computer that executes instructions
 4.	MB 	
 5.	GB 	Gigabyte (GB or GByte)
-Is a data measurement unit for digital computer or media storage.
+  Is a data measurement unit for digital computer or media storage.
 6.	TB 	
 7.	PB	
 8.	LAN 	
@@ -35,7 +35,8 @@ disc-based storage popularized when it replaced the VHS
 27.	SSD Solid-state drive
 solid-state storage device
 28.	I/O 	
-29.	NAS	
+29.	NAS	Network-attached storage
+Is a file-level (as opposed to block-level) computer data storage server connected to a computer network providing data access to a heterogeneous group of clients. NAS is specialized for serving files either by its hardware, software, or configuration.
 30.	WAN 	
 31.	OCR 	
 32.	SLA    	
@@ -63,7 +64,8 @@ Industry-standard specification for cables/connectors and peripherals (ex: USB K
 51.	FAQ	Frequently Answered Questions
  also known as Questions and Answers
 52.	OOP	
-53.	DNS	
+53.	DNS	 Domain name system
+Is a naming database in which internet domain names are located and translated into internet protocol (IP) addresses. The domain name system maps the name people use to locate a website to the IP address that a computer uses to locate a website.
 54.	GPS	
 55.	NIC		
 56.	POP	
