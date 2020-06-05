@@ -14,7 +14,8 @@ Is a data measurement unit for digital computer or media storage.
 11.	DOS   Disk Operating System
   Operating system that runs from a hard disk drive
 12.	IT	
-13.	MIS 	
+13.	MIS Management Information Systems
+        is a computer system consisting of hardware and software that serves as the backbone of an organization’s operations.
 14.	GUI 	
 15.	BIT 	
 16.	AWS 	
