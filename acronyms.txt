@@ -8,7 +8,7 @@
 5.	GB 	Gigabyte (GB or GByte)
   Is a data measurement unit for digital computer or media storage.
 6.	TB 	
-7.	PB	
+7.	PB	Petabyte, 10^15 bytes
 8.	LAN 	
 9.	LCD - liquid crystal display
 It offers a high-definition picture with a very thin screen.
@@ -39,8 +39,9 @@ solid-state storage device
 29.	NAS	Network-attached storage
 Is a file-level (as opposed to block-level) computer data storage server connected to a computer network providing data access to a heterogeneous group of clients. NAS is specialized for serving files either by its hardware, software, or configuration.
 30.	WAN 	
-31.	OCR 	
 
+31.	OCR 	Optical Character Recognition (alt. Optical Character Reader). 
+  Conversion of images or text (written or printed) into machine-encoded text
 32.	SLA 	
 33.	FTP - File Transfer Protocol
 FTP is a protocol designed for transferring files over the Internet.
