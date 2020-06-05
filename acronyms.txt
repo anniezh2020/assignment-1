@@ -49,7 +49,8 @@ FTP is a protocol designed for transferring files over the Internet.
 35.	DIMM    dual in-line memory module
   Small circuit board that holds memory chips
 36.	O365 	
-37.	GHz 	
+37.	GHz 	GHz is a unit of measurement for AC (alternating current) or EM (electromagnetic) 
+              wave frequencies equal to 1,000,000,000 (one billion) Hz (hertz).
 38.	WYSIWYG 
 39.	RAID	
 40.	SCSI 	
@@ -80,7 +81,8 @@ It is the default file system of the Windows NT family.
 59.	WAP   Wireless Application Protocol
   A technical standard for accessing information over a mobile wireless network
 60.	DBMS	
-61.	W3C	
+61.	W3C	 World Wide Web Consortium
+   is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards.
 62.	XML	
 63.	VPN
 64.	RTF - Rich Text Format
