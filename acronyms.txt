@@ -63,7 +63,8 @@ Industry-standard specification for cables/connectors and peripherals (ex: USB K
 47.	MODEM 	
 48.	ASCII	
 49.	VOIP	: short for Voice over Internet Protocol.It is the technology that converts your voice into a digital signal
-50.	DSL	
+50.	DSL	Digital subscriber line
+is a family of technologies that are used to transmit digital data over telephone lines
 51.	FAQ	Frequently Answered Questions
  also known as Questions and Answers
 52.	OOP	
@@ -92,7 +93,9 @@ document file format created by MS that stopped being supported back in 2008
 70.	IaaS Infrastructure as a service
 71.	PaaS
 72.	SaaS
+
 73.	SIM : stands for subscriber identity modulea. It is a smart card inside a mobile phone
-74.	C2C  
+74.	C2C  Consumer to consumer
+is the business model that facilitates commerce between private individuals
 75.	B2B Business to Business
   Company doing business with each other...
