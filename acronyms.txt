@@ -20,8 +20,9 @@ Is a data measurement unit for digital computer or media storage.
 17.	GPU 	
 18.	POST	
 19.	CMS	
-20.	DVD 	
-21.	FAT 	
+20.	DVD -	Digital Versatile Disc or Digital Video Disc (the 2nd being well-known)
+disc-based storage popularized when it replaced the VHS
+21.	FAT
 22.	HTML HyperText Markup Language	
 23.	HTTP 	
 24.	BYOD 	
@@ -44,7 +45,8 @@ Is a data measurement unit for digital computer or media storage.
 41.	P2P 	
 42.	UPS 	
 43.	BPS	
-44.	USB 	
+44.	USB - Universal Serial Bus
+Industry-standard specification for cables/connectors and peripherals (ex: USB Key, USB connection, etc)
 45.	DPI 	
 46.	CSS Cascading Style Sheets	
 47.	MODEM 	
@@ -64,7 +66,8 @@ Is a data measurement unit for digital computer or media storage.
 61.	W3C	
 62.	XML	
 63.	VPN
-64.	RTF
+64.	RTF - Rich Text Format
+document file format created by MS that stopped being supported back in 2008
 65.	IDE
 66.	SATA
 67.	GUID
