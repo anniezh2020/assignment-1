@@ -34,7 +34,7 @@ disc-based storage popularized when it replaced the VHS
 25.	URL : stands for Uniform Resource Locator (URL)	and it is the address of a World Wide Web page
 26.	WWW 	
 27.	SSD Solid-state drive
-solid-state storage device
+integrated circuit assemblies to store data persistently
 28.	I/O 	
 29.	NAS	Network-attached storage
 Is a file-level (as opposed to block-level) computer data storage server connected to a computer network providing data access to a heterogeneous group of clients. NAS is specialized for serving files either by its hardware, software, or configuration.
