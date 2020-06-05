@@ -10,7 +10,8 @@
 6.	TB 	
 7.	PB	
 8.	LAN 	
-9.	LCD 	
+9.	LCD - liquid crystal display
+It offers a high-definition picture with a very thin screen.
 10.	CRT 	
 11.	DOS   Disk Operating System
   Operating system that runs from a hard disk drive
@@ -39,8 +40,10 @@ solid-state storage device
 Is a file-level (as opposed to block-level) computer data storage server connected to a computer network providing data access to a heterogeneous group of clients. NAS is specialized for serving files either by its hardware, software, or configuration.
 30.	WAN 	
 31.	OCR 	
-32.	SLA    	
-33.	FTP 	
+
+32.	SLA 	
+33.	FTP - File Transfer Protocol
+FTP is a protocol designed for transferring files over the Internet.
 34.	TCP/IP  	
 35.	DIMM    dual in-line memory module
   Small circuit board that holds memory chips
@@ -69,7 +72,8 @@ Is a naming database in which internet domain names are located and translated i
 54.	GPS	
 55.	NIC		
 56.	POP	
-57.	NTFS	
+57.	NTFS - New Technology File System
+It is the default file system of the Windows NT family.
 58.	VM	
 59.	WAP   Wireless Application Protocol
   A technical standard for accessing information over a mobile wireless network
